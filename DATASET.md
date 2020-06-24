@@ -36,7 +36,7 @@ These files apply to the images found in the path /mnt/DATA/copepod_lab_petridis
 | Files   |   Description |
 | --------------------------------------------- | ---------------------------------------------- |
 | <tt>via_export_{json,coco}_format.json</tt>   | unprocessed exported annotations from the tool |
-| <tt>example_{coco,detectron2,json}format.json</tt> | short example files on how the annotaiton files for the coco format, detectron2 default format and the exported json format from the annotation tool respectively, are supposed to look like.|
+| <tt>example_{coco,detectron2,json}_format.json</tt> | short example files on how the annotaiton files for the coco format, detectron2 default format and the exported json format from the annotation tool respectively, are supposed to look like.|
 | <tt>copepod_train_val_test_splits.json</tt> | contains the lists of images divided into each of the sets in the dataset. |
 | <tt>coco_clean_{train,val,test}.json</tt> <br>  <tt>default_detectron_{train,val,test}.json</tt> | finished annotation files on the proper format ready for use. It is important to note that the categories in the coco format are 1-indexed while in the default detectron2 format they are 0-indexed |
 
