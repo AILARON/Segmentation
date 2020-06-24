@@ -28,11 +28,10 @@ One of the drawbacks of the tool is that when resuming labeling after restarting
 
 | Files   |   Description |
 | --------------------------------------------- | ---------------------------------------------- |
-| <tt>`via_export_{json,coco}_format.json`</tt> | unprocessed exported annotations from the tool |
-| <tt>`example_{coco,detectron2,json}format.json`</tt> | short example files on how the annotaiton files for the coco format, detectron2 default format and the exported json format from the annotation tool respectively, are supposed to look like.|
-| <tt>`copepod_train_val_test_splits.json`</tt> | contains the lists of images divided into each of the sets in the dataset. |
-| <tt>`coco_clean_{train,val,test}.json`</tt>
-  <tt>`default_detectron_{train,val,test}.json`</tt> | finished annotation files on the proper format ready for use. |
+| <tt>via_export_{json,coco}_format.json</tt>   | unprocessed exported annotations from the tool |
+| <tt>example_{coco,detectron2,json}format.json</tt> | short example files on how the annotaiton files for the coco format, detectron2 default format and the exported json format from the annotation tool respectively, are supposed to look like.|
+| <tt>copepod_train_val_test_splits.json</tt> | contains the lists of images divided into each of the sets in the dataset. |
+| <tt>coco_clean_{train,val,test}.json</tt> <br>  <tt>default_detectron_{train,val,test}.json</tt> | finished annotation files on the proper format ready for use. |
 
 
 The via_export_{json,coco}_format.json files are the unprocessed exported annotations from the tool.
