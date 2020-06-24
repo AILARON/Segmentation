@@ -24,7 +24,7 @@ When exporting the annotations from the tool you can choose between exporting as
 
 One of the drawbacks of the tool is that when resuming labeling after restarting the tool and uploading an exported anotation files, the region attributes have to be re-added. It is crucial to make sure the id's are exactly the same as before in order to preserve the format.
 
-## [Annotation files](dataset\annotations)
+## [Annotation files](dataset/annotations)
 
 | Files   |   Description |
 | --------------------------------------------- | ---------------------------------------------- |
