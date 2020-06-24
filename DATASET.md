@@ -31,6 +31,8 @@ One of the drawbacks of the tool is that when resuming labeling after restarting
 
 ## [Annotation files](dataset/annotations)
 
+These files apply to the images found in the path /mnt/DATA/copepod_lab_petridish/copepods on the NAS drive of the lab computer used for this project. The 5 first images in the directory (alphabetically orderd) are ommited as the these are not included in the STATS.csv output from the processing of these images by the PySilCam. This is because the background correction in that process utilizes the previous 5 images to subtractt the background of a given image.
+
 | Files   |   Description |
 | --------------------------------------------- | ---------------------------------------------- |
 | <tt>via_export_{json,coco}_format.json</tt>   | unprocessed exported annotations from the tool |
