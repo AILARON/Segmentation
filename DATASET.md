@@ -14,9 +14,9 @@ This tool specifically was selected due to it's ease-of-use and  because it's av
   <img src="docs/VGG_image_annotator/image_scene.PNG"/>
 </div>
 
-Region attributes
-:-------------------------:                  |  :-------------------------:
-![](docs/VGG_image_annotator/category.PNG)   |  ![](docs/VGG_image_annotator/image_quality.PNG)
+| Category | Image quality |
+|       -----------------          |--------------|
+|<img src="docs/VGG_image_annotator/category.PNG" width="300">   |  <img src="docs/VGG_image_annotator/image_quality.PNG" width="300">|
 
 
 When exporting the annotations from the tool you can choose between exporting as csv, json or [coco format](https://cocodataset.org/#format-data), however I found the coco format option to not reliably export it to a valid coco format. Because of this I have been extracting and manipulating the annotation files using customly written code to format them properly for the needs of my project. I have not been using the csv format.
