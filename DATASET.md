@@ -20,6 +20,11 @@ This tool specifically was selected due to it's ease-of-use and  because it's av
 
 The category ids are indexed (1-indexed) to be compatible with the class indexes outputed from the original [PySilCam Suite](https://github.com/emlynjdavies/PySilCam/wiki).
 The attributes in image_quality have the following ids: "blur", "light", "vignetting", "self_occlusion", "edge". These attributes of image quality are not preserved after processing the annotation files as the current method I am using this for doesn't require or support information like this. It is included hoewever because I see it as valuable data about the regions that can be put to use in future efforts.
+
+It is recommended that all the attributes and values are set up before the labeling effort is started in order to have the options available to the regions from the start. If an attribute or a field is added after labeling is started and some regions already labeled should have this attribute applied to them, backtracking is necessary, but only if the newly added attribute applied to the previous regions.
+
+When labeling I have been using the polygon region shape exclusively.
+
 When exporting the annotations from the tool you can choose between exporting as csv, json or [coco format](https://cocodataset.org/#format-data), however I found the coco format option to not reliably export it to a valid coco format. Because of this I have been extracting and manipulating the annotation files using customly written code to format them properly for the needs of my project. I have not been using the csv format.
 
 One of the drawbacks of the tool is that when resuming labeling after restarting the tool and uploading an exported anotation files, the region attributes have to be re-added. It is crucial to make sure the id's are exactly the same as before in order to preserve the format.
