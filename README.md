@@ -1,8 +1,6 @@
-# Segmentation
-
 ![NTNU logo](https://qore.no/res/ntnu-logo-100.png)
 
-# Project/thesis Title
+# Instance and semantic segmentation of planktonic organisms using Mask R-CNN
 Description
 ###### Author: Sondre Bergum
 ###### email: sondreab@stud.ntnu.no
