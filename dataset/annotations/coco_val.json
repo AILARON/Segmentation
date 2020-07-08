@@ -2,16 +2,16 @@
     "info": {
         "year": 2020,
         "version": "1",
-        "description": "Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/)",
-        "contributor": "",
-        "url": "http://www.robots.ox.ac.uk/~vgg/software/via/",
+        "description": "Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/). Development of dataset funded by RCN IKTPLUSS program (project number 262701) and supported by NTNU AMOS.",
+        "contributor": "Sondre Bergum",
+        "url": "https://github.com/AILARON/Segmentation/",
         "date_created": "Thu Jun 04 2020 10:23:15 GMT+0200 (Central European Summer Time)"
     },
     "licenses": [
         {
-            "id":1,
-            "name":"GPLv3 - GNU General Public License",
-            "url":"https://www.gnu.org/licenses/gpl-3.0.html"
+            "id": 1,
+            "name": "GPLv3 - GNU General Public License",
+            "url": "https://www.gnu.org/licenses/gpl-3.0.html"
         }
     ],
     "categories": [
@@ -265,7 +265,7 @@
                 162
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 6,
@@ -336,7 +336,7 @@
                 256
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 7,
@@ -389,7 +389,7 @@
                 184
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 8,
@@ -458,7 +458,7 @@
                 128
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 9,
@@ -511,7 +511,7 @@
                 92
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 20,
@@ -572,7 +572,7 @@
                 111
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 21,
@@ -663,7 +663,7 @@
                 248
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 22,
@@ -764,7 +764,7 @@
                 122
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 23,
@@ -859,7 +859,7 @@
                 191
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 24,
@@ -952,7 +952,7 @@
                 156
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 25,
@@ -1055,7 +1055,7 @@
                 109
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 31,
@@ -1138,7 +1138,7 @@
                 127
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 32,
@@ -1261,7 +1261,7 @@
                 245
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 33,
@@ -1332,7 +1332,7 @@
                 44
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 34,
@@ -1441,7 +1441,7 @@
                 102
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 35,
@@ -1522,7 +1522,7 @@
                 246
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 36,
@@ -1633,7 +1633,7 @@
                 250
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 37,
@@ -1714,7 +1714,7 @@
                 190
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 38,
@@ -1837,7 +1837,7 @@
                 262
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 39,
@@ -1920,7 +1920,7 @@
                 195
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 40,
@@ -2037,7 +2037,7 @@
                 245
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 41,
@@ -2130,7 +2130,7 @@
                 128
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 42,
@@ -2219,7 +2219,7 @@
                 202
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 43,
@@ -2332,7 +2332,7 @@
                 129
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 44,
@@ -2431,7 +2431,7 @@
                 216
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 45,
@@ -2554,7 +2554,7 @@
                 134
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 46,
@@ -2671,7 +2671,7 @@
                 101
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 47,
@@ -2786,7 +2786,7 @@
                 153
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 172,
@@ -2855,7 +2855,7 @@
                 146
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 173,
@@ -2916,7 +2916,7 @@
                 97
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 174,
@@ -2995,7 +2995,7 @@
                 148
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 175,
@@ -3100,7 +3100,7 @@
                 108
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 176,
@@ -3169,7 +3169,7 @@
                 199
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 177,
@@ -3242,7 +3242,7 @@
                 127
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 178,
@@ -3293,7 +3293,7 @@
                 146
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 179,
@@ -3364,7 +3364,7 @@
                 107
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 180,
@@ -3421,7 +3421,7 @@
                 48
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 181,
@@ -3474,7 +3474,7 @@
                 104
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 182,
@@ -3549,7 +3549,7 @@
                 130
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 183,
@@ -3618,7 +3618,7 @@
                 135
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 243,
@@ -3695,7 +3695,7 @@
                 132
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 244,
@@ -3792,7 +3792,7 @@
                 131
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 245,
@@ -3857,7 +3857,7 @@
                 131
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 246,
@@ -3956,7 +3956,7 @@
                 53
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 247,
@@ -4039,7 +4039,7 @@
                 90
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 278,
@@ -4180,7 +4180,7 @@
                 124
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 279,
@@ -4301,7 +4301,7 @@
                 220
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 280,
@@ -4446,7 +4446,7 @@
                 193
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 281,
@@ -4575,7 +4575,7 @@
                 211
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 282,
@@ -4714,7 +4714,7 @@
                 58
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 328,
@@ -4837,7 +4837,7 @@
                 208
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 329,
@@ -4968,7 +4968,7 @@
                 118
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 330,
@@ -5105,7 +5105,7 @@
                 139
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 331,
@@ -5226,7 +5226,7 @@
                 182
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 332,
@@ -5375,7 +5375,7 @@
                 246
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 333,
@@ -5528,7 +5528,7 @@
                 150
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 334,
@@ -5643,7 +5643,7 @@
                 178
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 335,
@@ -5792,7 +5792,7 @@
                 195
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 336,
@@ -5929,7 +5929,7 @@
                 248
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 337,
@@ -6044,7 +6044,7 @@
                 170
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 338,
@@ -6169,7 +6169,7 @@
                 75
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 339,
@@ -6272,7 +6272,7 @@
                 183
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 340,
@@ -6403,7 +6403,7 @@
                 240
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 341,
@@ -6522,7 +6522,7 @@
                 182
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 356,
@@ -6665,7 +6665,7 @@
                 252
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 357,
@@ -6800,7 +6800,7 @@
                 211
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 358,
@@ -6921,7 +6921,7 @@
                 193
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 359,
@@ -7058,7 +7058,7 @@
                 216
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 360,
@@ -7189,7 +7189,7 @@
                 248
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 361,
@@ -7290,7 +7290,7 @@
                 207
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 362,
@@ -7417,7 +7417,7 @@
                 196
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 363,
@@ -7514,7 +7514,7 @@
                 91
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 364,
@@ -7663,7 +7663,7 @@
                 227
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 365,
@@ -7776,7 +7776,7 @@
                 94
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 388,
@@ -7887,7 +7887,7 @@
                 189
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 389,
@@ -8028,7 +8028,7 @@
                 146
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 390,
@@ -8165,7 +8165,7 @@
                 221
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 391,
@@ -8320,7 +8320,7 @@
                 146
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 392,
@@ -8447,7 +8447,7 @@
                 160
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 484,
@@ -8572,7 +8572,7 @@
                 221
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 485,
@@ -8691,7 +8691,7 @@
                 171
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 486,
@@ -8794,7 +8794,7 @@
                 73
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 487,
@@ -8907,7 +8907,7 @@
                 210
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 488,
@@ -9034,7 +9034,7 @@
                 179
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 505,
@@ -9163,7 +9163,7 @@
                 180
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 506,
@@ -9294,7 +9294,7 @@
                 246
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 507,
@@ -9415,7 +9415,7 @@
                 123
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 508,
@@ -9540,7 +9540,7 @@
                 186
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 509,
@@ -9627,7 +9627,7 @@
                 78
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 574,
@@ -9768,7 +9768,7 @@
                 235
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 575,
@@ -9915,7 +9915,7 @@
                 190
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 576,
@@ -10070,7 +10070,7 @@
                 147
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 577,
@@ -10175,7 +10175,7 @@
                 67
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 578,
@@ -10252,7 +10252,7 @@
                 146
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 579,
@@ -10331,7 +10331,7 @@
                 41
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 626,
@@ -10424,7 +10424,7 @@
                 48
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 627,
@@ -10539,7 +10539,7 @@
                 266
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 628,
@@ -10702,7 +10702,7 @@
                 244
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 629,
@@ -10889,7 +10889,7 @@
                 202
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 630,
@@ -11044,7 +11044,7 @@
                 106
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 631,
@@ -11123,7 +11123,7 @@
                 169
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 696,
@@ -11194,7 +11194,7 @@
                 66
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 697,
@@ -11347,7 +11347,7 @@
                 236
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 698,
@@ -11494,7 +11494,7 @@
                 75
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 699,
@@ -11675,7 +11675,7 @@
                 249
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 700,
@@ -11832,7 +11832,7 @@
                 115
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 701,
@@ -11979,7 +11979,7 @@
                 150
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 702,
@@ -12150,7 +12150,7 @@
                 107
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 736,
@@ -12229,7 +12229,7 @@
                 30
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 737,
@@ -12364,7 +12364,7 @@
                 79
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 738,
@@ -12519,7 +12519,7 @@
                 102
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 739,
@@ -12634,7 +12634,7 @@
                 78
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 740,
@@ -12763,7 +12763,7 @@
                 246
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 741,
@@ -12950,7 +12950,7 @@
                 161
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         },
         {
             "id": 742,
@@ -13125,7 +13125,7 @@
                 127
             ],
             "iscrowd": 0,
-            "category_id": 4
+            "category_id": 5
         }
     ]
 }
