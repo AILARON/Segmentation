@@ -1,0 +1,73 @@
+{
+    "info":
+    {
+        "year":2020,
+        "version":"1",
+        "description":"Exported using VGG Image Annotator (http://www.robots.ox.ac.uk/~vgg/software/via/)",
+        "contributor":"",
+        "url":"http://www.robots.ox.ac.uk/~vgg/software/via/",
+        "date_created":"Thu May 07 2020 09:11:12 GMT+0200 (Central European Summer Time)"
+    },
+    "images":
+    [
+        {
+                "id":0,
+                "width":2448,
+                "height":2050,
+                "file_name":"D20191125T125406.862891.bmp",
+                "license":1,
+                "date_captured":""
+        },
+        {
+                "id":1,
+                "width":2448,
+                "height":2050,
+                "file_name":"D20191125T125407.768417.bmp",
+                "license":1,
+                "date_captured":""
+        },
+        {"id":2,"width":2448,"height":2050,"file_name":"D20191125T125408.678944.bmp","license":1,"date_captured":""}
+    ],
+    "annotations":
+    [
+        {
+            "id":0,
+            "image_id":"0",
+            "segmentation":[[348,718,356,717,366,732,379,738,395,758,414,783,421,796,423,803,496,731,496,736,428,804,420,810,413,821,320,879,319,874,405,816,387,806,371,781,361,760,359,752,356,742,348,720]],
+            "area":28674,
+            "bbox":[319,717,177,162],
+            "iscrowd":0, 
+            "category_id": 1
+        },
+        {
+            "id":1,
+            "image_id":"0",
+            "segmentation":[[2125,897,2110,897,2103,906,2105,913,2084,907,2053,900,2009,892,1993,888,1993,893,2042,903,2085,914,2096,919,2097,928,2110,926,2107,931,2103,948,2110,948,2112,937,2122,935,2127,952,2131,948,2128,935,2136,928,2142,921,2160,926,2239,937,2237,930,2143,915,2139,907,2132,900,2125,897]],
+            "area":15744,
+            "bbox":[1993,888,246,64],
+            "iscrowd":0, 
+            "category_id": 1
+        }
+    ],
+    "licenses":
+    [
+        {
+            "id":1,
+            "name":"GPLv3 - GNU General Public License",
+            "url":"https://www.gnu.org/licenses/gpl-3.0.html"
+        }
+    ],
+    "categories":
+    [
+        {
+            "id":1,
+            "name":"name",
+            "supercategory":"super_name"
+        },
+        {
+            "id":2,
+            "name":"name2",
+            "supercategory":"super_name"
+        }
+    ]
+}
