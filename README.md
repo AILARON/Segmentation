@@ -8,7 +8,7 @@ Description
 ###### Contact
 ###### email: annette.stahl@ntnu.no
 ###### email: aya.saad@ntnu.no
-###### funded by RCN IKTPLUSS program (project number 262701) and supported by NTNU AMOS
+###### funded by RCN IKTPLUSS program (project number 262741) and supported by NTNU AMOS
 ###### Copyright @NTNU 2019
 ---------------------------------------------------
 <!-- -->
